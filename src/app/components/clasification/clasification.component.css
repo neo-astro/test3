@@ -1,0 +1,32 @@
+.my-card {
+  width: 25%;
+  height: 25%;
+  border-radius: 10px;
+  background: linear-gradient(145deg, #f0f0f0, #cacaca);
+  box-shadow:  24px 24px 50px #a1a1a1,
+               -24px -24px 50px #ffffff;
+}
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+  background-size: cover;
+}
+
+
+.contenedor{
+  width:100%;
+  background-image: url("https://media.istockphoto.com/id/489553794/es/foto/mosaico-azul-turquesa-y-blanco-perro-patr%C3%B3n-de-repetici%C3%B3n-de-fondo.jpg?s=1024x1024&w=is&k=20&c=Jl-wCaXrWw1PNJp-cKBwARDyHs6I_CackbERSa3qg6I=");
+  height: 100%;
+}
+
+
+.card {
+  max-width: 400px;
+}
+
+.header-image {
+  background-image: url('https://lh3.googleusercontent.com/a/ACg8ocJHCsKIDEqjbL5tRzPMJYNBilpIFWyemNLtUUN8oVwhyQ=s411-c-no');
+  background-size: cover;
+}
